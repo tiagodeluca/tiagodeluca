@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**tidelucca-creator/tidelucca-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tiago Deluca!
 
-Here are some ideas to get you started:
+I'm a Computer Science student and aspiring Software Engineer with an interest in building practical applications, problem-solving, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my programming skills through coursework, personal projects, and hands-on experience.
+
+## Technical Skills
+- **Languages:** Python, SQL (MySQL)
+- **Development Tools:** Visual Studio Code
+- **Currently Learning:** Git, GitHub, and software development best practices
+
+## Featured Projects
+
+### MoneyWise — Personal Finance Application
+A student-focused personal finance application developed for HackMidwest.
+
+- Budget planning and expense tracking
+- Savings goals and financial planning tools
+- Affordability simulation
+- Mobile-friendly application design
+
+### Baseball Player Comparison Tool
+A Python project inspired by *Moneyball*, designed to compare baseball players using statistical information.
+
+- Player statistics comparison
+- Data-driven evaluation
+- Python programming and logical problem-solving
+
+## Currently Working On
+- Improving and publishing my personal projects
+- Expanding my software engineering skills
+- Exploring cybersecurity concepts
+- Preparing for software engineering internships
+
+## Connect With Me
+- Tiago Ruas Deluca (www.linkedin.com/in/tiago-ruas-deluca-a6ab531a1)
