@@ -6,9 +6,10 @@ I'm a Computer Science student and aspiring Software Engineer with an interest i
 I'm currently developing my programming skills through coursework, personal projects, and hands-on experience.
 
 ## Technical Skills
-- **Languages:** Python, SQL (MySQL)
-- **Development Tools:** Visual Studio Code
-- **Currently Learning:** Git, GitHub, and software development best practices
+- **Languages:** Python, SQL
+- **Databases:** MySQL
+- **Development Tools:** Visual Studio Code, DBeaver, GitHub
+- **Command Line:** Linux terminal, Windows Command Prompt (CMD)
 
 ## Featured Projects
 
@@ -34,4 +35,4 @@ A Python project inspired by *Moneyball*, designed to compare baseball players u
 - Preparing for software engineering internships
 
 ## Connect With Me
-- Tiago Ruas Deluca (www.linkedin.com/in/tiago-ruas-deluca-a6ab531a1)
+- Tiago Ruas Deluca (www.linkedin.com/in/tiagoruasdeluca)
